@@ -1,6 +1,9 @@
-V9 production acceptance
-Source: a27154408bac5ee8f0e26f42ba226f9c5dbf4e84
-Release: rel_556786c8333be1b38250ae5847e94d88
+V9 final production acceptance
+Source: 68de4d7e6833bc3218df01b101e408c7f41afb7e
+Release: rel_9fa942937457697268e8c7f7fd7796a6
+Artifact: 40973d20d4bf3603e24180889ca2b02eef34de332762a8ad9c595973d149a55c
 Workspace: ws_acdcc78d-0626-4d42-8d3c-28f451c16510
-Run: run_e5a65be0-18aa-4440-89f6-1faf8e3b08b0
-Frontend interruption: runner continued; operation executed once.
+Final Run: run_8c089cb7-e1d1-49a0-a410-dd17e71447af
+Frontend restart/reconnect: PASS
+Execution count: 1
+GRE live rollback and exact re-promotion: PASS

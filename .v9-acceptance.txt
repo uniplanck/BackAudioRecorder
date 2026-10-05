@@ -1,0 +1,6 @@
+V9 production acceptance
+Source: a27154408bac5ee8f0e26f42ba226f9c5dbf4e84
+Release: rel_556786c8333be1b38250ae5847e94d88
+Workspace: ws_acdcc78d-0626-4d42-8d3c-28f451c16510
+Run: run_e5a65be0-18aa-4440-89f6-1faf8e3b08b0
+Frontend interruption: runner continued; operation executed once.

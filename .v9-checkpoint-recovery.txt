@@ -1,0 +1,3 @@
+V9 checkpoint recovery
+Initial scoped local commit: 1029d920165d1d0200dbba51e642a508bfabbc79
+Existing host Git credential-helper reference enabled for normal feature-branch durability.
